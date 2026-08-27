@@ -49,7 +49,6 @@ Libre Standard is developed through open collaboration, technical review, and co
 
 - 🏠 **Official Website:** [librestandard.github.io][librestandard-website]
 - 📚 **Documentation:** [librestandard.github.io/documentation][librestandard-documentation]
-- 🛠️ **Primary Repository:** [librestandard/librestandard][librestandard-repository]
 - 💬 **Discussions Forum:** [github.com/orgs/librestandard/discussions][librestandard-discussions]
 - 🏛️ **Governing Body:** [librecollective.github.io][librecollective-website]
 
@@ -71,7 +70,6 @@ respective licenses, which are located directly within their dedicated repositor
 [librestandard-organization]: https://github.com/librestandard
 [librestandard-discussions]: https://github.com/orgs/librestandard/discussions
 [librestandard-documentation]: https://librestandard.github.io/documentation
-[librestandard-repository]: https://github.com/librestandard/librestandard
 [librestandard-repository-license]: https://librelicense.github.io/license/libre-public-domain-license-v1.txt
 [logics-repository]: https://github.com/librestandard/logics
 [logics-documentation]: https://librestandard.github.io/documentation/logics/
