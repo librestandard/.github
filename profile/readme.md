@@ -36,10 +36,10 @@ organization as they reach formal draft status.
 Libre Standard is developed through open collaboration, technical review, and community participation:
 
 - **Community Discussions:** Join conversations, ask technical questions, propose standard enhancements, and
-  participate in Request for Comments (RFC) processes in the **[Discussions Forum][discussions-forum]**.
+  participate in Request for Comments (RFC) processes in the **[Discussions Forum][librestandard-discussions]**.
 - **Canonical Specifications and Source Code:** Explore, audit, or clone authoritative standard specifications and
   reference implementations directly from the
-  **[Libre Standard Organization Repositories][librestandard-repositories]**.
+  **[Libre Standard Organization Repositories][librestandard-organization]**.
 - **Documentation and Guides:** Access detailed documentation, best practices, and integration examples on the
   **[Documentation Portal][librestandard-documentation]**.
 
@@ -50,7 +50,7 @@ Libre Standard is developed through open collaboration, technical review, and co
 - 🏠 **Official Website:** [librestandard.github.io][librestandard-website]
 - 📚 **Documentation:** [librestandard.github.io/documentation][librestandard-documentation]
 - 🛠️ **Primary Repository:** [librestandard/librestandard][librestandard-repository]
-- 💬 **Discussions Forum:** [github.com/orgs/librestandard/discussions][discussions-forum]
+- 💬 **Discussions Forum:** [github.com/orgs/librestandard/discussions][librestandard-discussions]
 - 🏛️ **Governing Body:** [librecollective.github.io][librecollective-website]
 
 ---
@@ -68,8 +68,8 @@ respective licenses, which are located directly within their dedicated repositor
 
 [librecollective-website]: https://librecollective.github.io
 [librestandard-website]: https://librestandard.github.io
-[librestandard-repositories]: https://github.com/librestandard
-[discussions-forum]: https://github.com/orgs/librestandard/discussions
+[librestandard-organization]: https://github.com/librestandard
+[librestandard-discussions]: https://github.com/orgs/librestandard/discussions
 [librestandard-documentation]: https://librestandard.github.io/documentation
 [librestandard-repository]: https://github.com/librestandard/librestandard
 [librestandard-repository-license]: https://librelicense.github.io/license/libre-public-domain-license-v1.txt

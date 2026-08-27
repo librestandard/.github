@@ -11,7 +11,7 @@ Governed and maintained by the **[Libre Collective][librecollective-website]**.
 
 ---
 
-## 🏛️ Repository Purpose and Use Case
+## 1 Repository Purpose and Use Case
 
 This repository is dedicated to managing GitHub organization-level assets and community interactions for the
 **Libre Standard**:
@@ -23,7 +23,7 @@ This repository is dedicated to managing GitHub organization-level assets and co
 
 ---
 
-## 📄 License and Attribution
+## 2 License and Attribution
 
 All documentation, specifications, configuration assets, and templates in this repository are dedicated to the public
 domain under the **[Libre Public Domain License V1 (LPDLV1)][librestandard-repository-license]** unless otherwise
