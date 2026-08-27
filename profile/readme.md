@@ -1,4 +1,4 @@
-# ⚖️ Libre Standard
+# 📏 Libre Standard
 
 Official organization profile and community portal for the **[Libre Standard][librestandard-website]** framework.
 Governed and maintained by the **[Libre Collective][librecollective-website]**.

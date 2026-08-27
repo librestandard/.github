@@ -1,4 +1,4 @@
-# ⚖️ Libre Standard | `.github` Repository
+# 📏 Libre Standard | `.github` Repository
 
 Official repository for the GitHub organization configurations, profile assets, and
 community discussion forums for the **[Libre Standard][librestandard-organization]** framework.
