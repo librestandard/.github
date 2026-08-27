@@ -50,18 +50,17 @@ Libre Standard is developed through open collaboration, technical review, and co
 - 🏠 **Official Website:** [librestandard.github.io][librestandard-website]
 - 📚 **Documentation:** [librestandard.github.io/documentation][librestandard-documentation]
 - 💬 **Discussions Forum:** [github.com/orgs/librestandard/discussions][librestandard-discussions]
-- 🏛️ **Governing Body:** [librecollective.github.io][librecollective-website]
+- 🏛️ **Governing Board:** [librecollective.github.io][librecollective-website]
 
 ---
 
 ## 4 License and Attribution
 
-All documentation, specifications, configuration assets, and templates in this repository are dedicated to the public
-domain under the **[Libre Public Domain License V1 (LPDLV1)][librestandard-repository-license]** unless otherwise
-noted.
+Individual standards published within the **[Libre Standard][librestandard-website]** framework are independent works
+and are governed by their respective licenses, which are provided directly within their dedicated repositories.
 
-Individual standards published within the Libre Standard framework are independent works governed by their own
-respective licenses, which are located directly within their dedicated repositories.
+The license of a particular standard should therefore be consulted when adopting, redistributing, or incorporating
+that standard into another project.
 
 ---
 
